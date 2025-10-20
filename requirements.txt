@@ -3,3 +3,4 @@ uvicorn[standard]>=0.38.0
 python-dotenv>=1.1.1
 mistralai>=1.9.10
 PyPDF2>=3.0.1
+python-multipart>=0.0.20
